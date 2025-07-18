@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jan Pol 👋</h1>
+<h1 align="center">Hi, I'm Paul 👋</h1>
 
 <p align="center">
   🎓 First-year BSIT student <br>
