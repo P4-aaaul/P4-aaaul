@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm John Paul Jacobo 👋
 
-<!--
-**P4-aaaul/P4-aaaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a first-year BSIT student from the Philippines.  
+💻 Currently learning programming basics and diving into the world of tech.  
+🛠️ Passionate about both software and hardware — from writing code to building PC setups.  
+🌱 Right now, i'm exploring Python, HTML/CSS, and how computers work inside and out.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let’s connect**  
+I'm always open to learning more and meeting people in tech.  
+Feel free to check out my projects as i grow!
+
