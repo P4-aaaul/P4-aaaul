@@ -1,44 +1,46 @@
-<h1 align="center">Hi, I'm Paul 👋</h1>
+<h1 align="center">Hello, my name is John Paul 👋</h1>
 
 <p align="center">
-  🎓 First-year BSIT student <br>
-  🇵🇭 Based in the Philippines <br>
-  💻 Learning to code and explore tech <br>
-  🛠️ Passionate about both programming and hardware
+  🎓 First-year BSIT student  
+  <br>🇵🇭 Based in the Philippines  
+  <br>💻 Learning to code and explore tech  
+  <br>🛠️ Passionate about both software and hardware
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 I'm learning **Python**, **HTML**, **CSS**, and some **basic electronics**
-- 🧠 Curious about how computers and networks work
-- 🔧 I like fixing things and learning how hardware parts go together
-- 💬 Always up for a tech chat or beginner project collab
+- Learned **C language** and built GTA SA-MP scripts using Pawn
+- Currently studying **C#** and **Python**
+- Exploring web development with **HTML** and **CSS**
+- Into building and troubleshooting PC hardware
+- Enjoy working on solo projects to sharpen skills
 
 ---
 
 ### 📚 Currently Working On
 
-- Building small beginner projects to improve my coding skills
-- Studying data types, logic flow, and how web pages are made
-- Exploring PC hardware and system building
+- GTA SA-MP scripting projects
+- Simple C# console apps and Python exercises
+- Learning Git and GitHub for version control
 
 ---
 
-### 🧰 Tech I'm Learning
+### 🧰 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PC Building-000000?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/PC_Building-000000?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats (Once I Start Pushing Code 😉)
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janpolgithub&show_icons=true&theme=tokyonight" width="400"/>
@@ -49,4 +51,4 @@
 
 ### 📫 Let's Connect
 
-- Portfolio site coming soon!
+- 🌐 [Visit My Portfolio](https://your-portfolio-link.com)
