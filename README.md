@@ -49,6 +49,4 @@
 
 ### 📫 Let's Connect
 
-- Email: *your email here*
-- Discord: *your tag here (if any)*
 - Portfolio site coming soon!
